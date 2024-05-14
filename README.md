@@ -1,8 +1,25 @@
-# React + Vite
+This webpage developed using React Redux.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Developed a cart page displaying per-item price, per-item quantity, total quantity, and total amount.
 
-Currently, two official plugins are available:
+Implemented functionality to increase or decrease per-unit quantity, automatically updating total quantity and amount.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Utilized React Redux Toolkit exclusively for state management and necessary functions.
+
+It's fully Responsive.
+
+**Npm Packages are used:**
+https://www.npmjs.com/package/bootstrap
+
+https://www.npmjs.com/package/react-router-dom
+
+https://www.npmjs.com/package/redux
+
+https://www.npmjs.com/package/@reduxjs/toolkit
+
+https://www.npmjs.com/package/react-toastify
+
+https://www.npmjs.com/package/react-simple-star-rating
+
+https://www.npmjs.com/package/react-rating-stars-component
+
